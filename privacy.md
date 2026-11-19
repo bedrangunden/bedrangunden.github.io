@@ -12,7 +12,7 @@ Gizlilik politikası · Datenschutzerklärung · Privacy policy — Stand / Tari
 
 ### 1. Kısaca
 
-Galerici bir oto galeri oyunudur. Adını, e-postanı, telefon numaranı, konumunu, rehberini, fotoğraflarını ya da Apple hesabını toplamıyoruz. Oyunda Google AdMob reklamları vardır. Sohbet ve davet kodu Apple'ın iCloud sunucusunda (CloudKit) çalışır.
+Galerici bir oto galeri oyunudur. Adını, e-postanı, telefon numaranı, konumunu, rehberini, fotoğraflarını ya da Apple hesabını toplamıyoruz. Oyunda Google AdMob reklamları vardır ve oyunu geliştirmek için Google Analytics for Firebase ile kullanım istatistikleri toplanır. Sohbet ve davet kodu Apple'ın iCloud sunucusunda (CloudKit) çalışır.
 
 ### 2. Oyun kaydı
 
@@ -28,27 +28,31 @@ Sohbette küfür filtresi, şikâyet ve engelleme vardır. Şikâyet edilen mesa
 
 Tamir bitince, araba gelince ve günlük ödül hazır olunca bildirim gönderebiliriz. Bunlar sadece senin iznin varsa, telefonunun kendisinde planlanır ve hiçbir sunucuya gönderilmez. Telefonunun Ayarlar bölümünden kapatabilirsin.
 
-### 5. Reklamlar (Google AdMob)
+### 5. Kullanım istatistikleri (Google Analytics for Firebase)
+
+Oyunu geliştirmek için Google Ireland Ltd.'nin Google Analytics for Firebase hizmetiyle kullanım istatistikleri toplarız: hangi ekranların açıldığı, oyunda geçen süre, seviye ilerlemesi, satın alma ve reklam olayları, cihaz modeli, iOS sürümü ve IP adresinden çıkan yaklaşık ülke ve şehir. Bunun için uygulamaya özel, rastgele bir kimlik kullanılır; adın, e-postan ya da Apple hesabın toplanmaz. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de bu veriler ancak izin verirsen tam olarak toplanır; izin vermezsen sadece kimliksiz, toplu sayımlar yapılır. Kararını reklam izniyle aynı yerden değiştirebilirsin. Veriler en fazla 2 ay saklanır.
+
+### 6. Reklamlar (Google AdMob)
 
 Oyunda Google AdMob reklamları gösterilir. Google reklam göstermek ve ölçmek için cihazın reklam kimliğini (IDFA, sadece izin verirsen), IP adresini ve kullanım bilgilerini işleyebilir. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de önce iznin sorulur. İznini oyundaki "Gizlilik ve şartlar → Reklam gizlilik ayarları" bölümünden değiştirebilirsin. "Reklamsız oyun" satın alırsan ara reklamlar kapanır. Ayrıntılar: [policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 6. Satın almalar
+### 7. Satın almalar
 
 Uygulama içi satın almaları tamamen Apple yapar. Ödeme bilgilerini görmeyiz. Oyun parası gerçek paraya çevrilemez.
 
-### 7. İzinler ve yazı tipleri
+### 8. İzinler ve yazı tipleri
 
 Konum, rehber, kamera ya da mikrofon izni istemiyoruz. Titreşim için izin gerekmez ve veri toplanmaz. Oyun yazı tiplerini Google Fonts'tan yükleyebilir; bu sırada cihazının IP adresi Google'a iletilir.
 
-### 8. Çocuklar
+### 9. Çocuklar
 
 Oyun çocuklara yönelik değildir ve bilerek çocuklardan veri toplamayız.
 
-### 9. Verilerini silmek
+### 10. Verilerini silmek
 
 Uygulamayı silince oyun kaydın silinir. Sohbet mesajlarının ya da davet kaydının silinmesini istersen bize e-posta gönder; 30 gün içinde sileriz.
 
-### 10. İletişim
+### 11. İletişim
 
 Bedran Günden · bedran34@icloud.com
 
@@ -56,7 +60,7 @@ Bedran Günden · bedran34@icloud.com
 
 ### 1. Kurz gesagt
 
-Galerici ist ein Autohändler-Spiel. Wir erheben weder deinen Namen noch E-Mail, Telefonnummer, Standort, Kontakte, Fotos oder dein Apple-Konto. Im Spiel wird Werbung von Google AdMob angezeigt. Chat und Einladungscode laufen über Apples iCloud-Server (CloudKit).
+Galerici ist ein Autohändler-Spiel. Wir erheben weder deinen Namen noch E-Mail, Telefonnummer, Standort, Kontakte, Fotos oder dein Apple-Konto. Im Spiel wird Werbung von Google AdMob angezeigt, und zur Verbesserung des Spiels werden mit Google Analytics for Firebase Nutzungsstatistiken erhoben. Chat und Einladungscode laufen über Apples iCloud-Server (CloudKit).
 
 ### 2. Spielstand
 
@@ -72,27 +76,31 @@ Der Chat hat einen Wortfilter sowie Melden und Blockieren. Gemeldete Nachrichten
 
 Wir können dich benachrichtigen, wenn eine Reparatur fertig ist, ein Auto ankommt oder der Tagesbonus bereit ist. Das geschieht nur mit deiner Erlaubnis, wird direkt auf deinem Telefon geplant und an keinen Server gesendet. Du kannst es in den Einstellungen abschalten.
 
-### 5. Werbung (Google AdMob)
+### 5. Nutzungsstatistiken (Google Analytics for Firebase)
+
+Zur Verbesserung des Spiels erheben wir mit Google Analytics for Firebase der Google Ireland Ltd. Nutzungsstatistiken: welche Bildschirme geöffnet werden, Spieldauer, Levelfortschritt, Kauf- und Werbeereignisse, Gerätemodell, iOS-Version sowie das aus der IP-Adresse abgeleitete ungefähre Land und die Stadt. Dafür wird eine zufällige, nur für diese App geltende Kennung verwendet; Name, E-Mail oder Apple-Konto werden nicht erhoben. Im EWR, im Vereinigten Königreich und in der Schweiz werden diese Daten nur mit deiner Einwilligung vollständig erhoben (Art. 6 Abs. 1 lit. a DSGVO); ohne Einwilligung werden nur kennungslose, zusammengefasste Zählungen erstellt. Du kannst deine Entscheidung an derselben Stelle wie die Werbe-Einwilligung ändern. Die Daten werden höchstens 2 Monate gespeichert.
+
+### 6. Werbung (Google AdMob)
 
 Im Spiel wird Werbung von Google AdMob gezeigt. Google kann dafür die Werbe-ID (IDFA, nur mit deiner Erlaubnis), die IP-Adresse und Nutzungsdaten verarbeiten. Im EWR, im Vereinigten Königreich und in der Schweiz wirst du vorher um Einwilligung gebeten. Ändern kannst du sie im Spiel unter „Datenschutz und Bedingungen → Werbe-Datenschutzeinstellungen“. Mit „Werbefrei spielen“ entfällt die Zwischendurch-Werbung. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 6. Käufe
+### 7. Käufe
 
 In-App-Käufe wickelt ausschließlich Apple ab. Zahlungsdaten sehen wir nicht. Spielgeld kann nicht in echtes Geld umgetauscht werden.
 
-### 7. Berechtigungen und Schriften
+### 8. Berechtigungen und Schriften
 
 Wir fragen nicht nach Standort, Kontakten, Kamera oder Mikrofon. Vibration braucht keine Erlaubnis und erhebt keine Daten. Das Spiel kann Schriften von Google Fonts laden; dabei wird die IP-Adresse deines Geräts an Google übermittelt.
 
-### 8. Kinder
+### 9. Kinder
 
 Das Spiel richtet sich nicht an Kinder, und wir erheben wissentlich keine Daten von Kindern.
 
-### 9. Löschung
+### 10. Löschung
 
 Mit dem Löschen der App wird dein Spielstand gelöscht. Wenn wir deine Chatnachrichten oder deinen Einladungseintrag löschen sollen, schreib uns; wir löschen sie innerhalb von 30 Tagen. Du hast nach der DSGVO außerdem das Recht auf Auskunft, Berichtigung und Beschwerde bei einer Aufsichtsbehörde.
 
-### 10. Kontakt / Verantwortlicher
+### 11. Kontakt / Verantwortlicher
 
 Bedran Günden · bedran34@icloud.com
 
@@ -100,7 +108,7 @@ Bedran Günden · bedran34@icloud.com
 
 ### 1. Summary
 
-Galerici is a car dealership game. We do not collect your name, email, phone number, location, contacts, photos or Apple account. The game shows Google AdMob ads. Chat and invite codes run on Apple's iCloud servers (CloudKit).
+Galerici is a car dealership game. We do not collect your name, email, phone number, location, contacts, photos or Apple account. The game shows Google AdMob ads, and usage statistics are collected with Google Analytics for Firebase to improve the game. Chat and invite codes run on Apple's iCloud servers (CloudKit).
 
 ### 2. Save data
 
@@ -116,26 +124,30 @@ The chat has a word filter plus report and block. We review reported messages wi
 
 We may notify you when a repair is done, a car arrives or your daily reward is ready. This only happens with your permission, is scheduled on your phone itself and nothing is sent to a server. You can turn it off in Settings.
 
-### 5. Ads (Google AdMob)
+### 5. Usage statistics (Google Analytics for Firebase)
+
+To improve the game we collect usage statistics with Google Analytics for Firebase by Google Ireland Ltd.: which screens are opened, play time, level progress, purchase and ad events, device model, iOS version and the approximate country and city derived from your IP address. A random ID unique to this app is used for this; your name, email or Apple account are not collected. In the EEA, UK and Switzerland this data is only fully collected with your consent; without consent only anonymous, aggregated counts are made. You can change your choice in the same place as your ad consent. Data is kept for at most 2 months.
+
+### 6. Ads (Google AdMob)
 
 The game shows ads from Google AdMob. Google may process your advertising ID (IDFA, only with your permission), IP address and usage data to show and measure ads. In the EEA, UK and Switzerland you are asked for consent first, and you can change it in the game under "Privacy and terms → Ad privacy settings". Buying "Ad-free play" removes interstitial ads. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 6. Purchases
+### 7. Purchases
 
 In-app purchases are handled entirely by Apple. We never see payment details. In-game money cannot be exchanged for real money.
 
-### 7. Permissions and fonts
+### 8. Permissions and fonts
 
 We don't ask for location, contacts, camera or microphone. Haptics need no permission and collect no data. The game may load fonts from Google Fonts, which sends your device's IP address to Google.
 
-### 8. Children
+### 9. Children
 
 The game is not directed at children and we do not knowingly collect data from children.
 
-### 9. Deletion
+### 10. Deletion
 
 Deleting the app deletes your save data. To have your chat messages or invite record deleted, email us and we will delete them within 30 days.
 
-### 10. Contact
+### 11. Contact
 
 Bedran Günden · bedran34@icloud.com
