@@ -4,7 +4,7 @@ Oto galeri işlet, araba al, tamir et, kârla sat. · Baue dein eigenes Autohaus
 
 **İletişim · Kontakt · Contact:** bedran34@icloud.com
 
-[Gizlilik politikası · Datenschutzerklärung · Privacy policy](privacy.html)
+[Gizlilik politikası · Datenschutzerklärung · Privacy policy](privacy.html) · [Impressum · Künye](impressum.html)
 
 ## Türkçe – Sık sorulan sorular
 
