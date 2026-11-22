@@ -34,6 +34,10 @@ Uygulamada Google Ireland Ltd.'nin AdMob reklamları gösterilir. Google bunun i
 
 Ayet ve dua kayıtları internetten yüklenebilir; bu sırada cihazının IP adresi ses dosyasını sunan siteye ulaşır. Uygulamadaki elih-verein.de bağlantısı tarayıcında açılır; orada o sitenin gizlilik kuralları geçerlidir.
 
+### Duyurular
+
+Derneğin duyuruları bu siteden (bedrangunden.github.io) indirilir. Bu sırada sadece cihazının IP adresi sunucuya ulaşır; kişisel veri gönderilmez.
+
 ### 7. Çocuklar
 
 Uygulama çocuklardan bilerek kişisel veri toplamaz.

@@ -1,0 +1,19 @@
+{
+  "anns": [
+    {
+      "id": "hosgeldin",
+      "date": "2026-11-21",
+      "title": {
+        "ku": "Bi xêr hatin sepana Elih",
+        "tr": "Elih uygulamasına hoş geldiniz",
+        "de": "Willkommen in der Elih-App"
+      },
+      "body": {
+        "ku": "Demên nimêjê, dua, Qur'an û dersên ziman û çandê niha li ser telefona te ne. Daxuyaniyên komeleyê jî li vir têne weşandin.",
+        "tr": "Namaz vakitleri, dualar, Kur'an ve dil-kültür dersleri artık telefonunda. Derneğin duyuruları da burada yayınlanacak.",
+        "de": "Gebetszeiten, Bittgebete, Koran sowie Sprach- und Kulturlektionen sind jetzt auf deinem Handy. Neuigkeiten des Vereins erscheinen ebenfalls hier."
+      }
+    }
+  ],
+  "events": []
+}
