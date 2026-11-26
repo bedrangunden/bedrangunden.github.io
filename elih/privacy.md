@@ -4,7 +4,7 @@ title: Elih – Gizlilik · Datenschutz · Privacy
 
 # Elih
 
-Gizlilik politikası · Datenschutzerklärung · Privacy policy — 19.11.2026
+Gizlilik politikası · Datenschutzerklärung · Privacy policy — 26.11.2026 (iPhone & Android)
 
 [Türkçe](#türkçe) · [Deutsch](#deutsch) · [English](#english)
 
@@ -28,7 +28,7 @@ Dil seçimin, favori duaların ve diğer ayarların sadece cihazında saklanır.
 
 ### 5. Reklamlar (Google AdMob)
 
-Uygulamada Google Ireland Ltd.'nin AdMob reklamları gösterilir. Google bunun için cihazın reklam kimliğini (IDFA, sadece izin verirsen), IP adresini ve kullanım bilgilerini işleyebilir. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de önce iznin sorulur; kararını uygulamadaki "Reklam gizlilik ayarları" bölümünden değiştirebilirsin. Uygunsuz reklam kategorileri (kumar, alkol, flört, cinsellik, siyaset, başka dinler) engellenmiştir. Ayrıntılar: [policies.google.com/privacy](https://policies.google.com/privacy)
+Uygulamada Google Ireland Ltd.'nin AdMob reklamları gösterilir. Google bunun için cihazın reklam kimliğini (iPhone'da IDFA, sadece izin verirsen; Android'de Google reklam kimliği), IP adresini ve kullanım bilgilerini işleyebilir. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de önce iznin sorulur; kararını uygulamadaki "Reklam gizlilik ayarları" bölümünden değiştirebilirsin. Uygunsuz reklam kategorileri (kumar, alkol, flört, cinsellik, siyaset, başka dinler) engellenmiştir. Ayrıntılar: [policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 6. Ses kayıtları ve dış bağlantılar
 
@@ -66,7 +66,7 @@ Sprache, Lieblingsgebete und Einstellungen werden nur auf deinem Gerät gespeich
 
 ### 5. Werbung (Google AdMob)
 
-In der App wird Werbung über AdMob der Google Ireland Ltd. gezeigt. Google kann dafür die Werbe-ID (IDFA, nur mit deiner Erlaubnis), die IP-Adresse und Nutzungsdaten verarbeiten. Im EWR, im Vereinigten Königreich und in der Schweiz wirst du vorher um Einwilligung gebeten (Art. 6 Abs. 1 lit. a DSGVO); ändern kannst du sie in der App unter „Werbe-Datenschutzeinstellungen“. Unpassende Werbekategorien (Glücksspiel, Alkohol, Dating, Sexualität, Politik, andere Religionen) sind gesperrt. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
+In der App wird Werbung über AdMob der Google Ireland Ltd. gezeigt. Google kann dafür die Werbe-ID (auf dem iPhone die IDFA, nur mit deiner Erlaubnis; auf Android die Google-Werbe-ID), die IP-Adresse und Nutzungsdaten verarbeiten. Im EWR, im Vereinigten Königreich und in der Schweiz wirst du vorher um Einwilligung gebeten (Art. 6 Abs. 1 lit. a DSGVO); ändern kannst du sie in der App unter „Werbe-Datenschutzeinstellungen“. Unpassende Werbekategorien (Glücksspiel, Alkohol, Dating, Sexualität, Politik, andere Religionen) sind gesperrt. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 6. Audioaufnahmen und externe Links
 
@@ -100,7 +100,7 @@ Your language, favorite prayers and settings are stored only on your device and 
 
 ### 5. Ads (Google AdMob)
 
-The app shows ads through AdMob by Google Ireland Ltd. Google may process your advertising ID (IDFA, only with your permission), IP address and usage data. In the EEA, UK and Switzerland you are asked for consent first; you can change it in the app under "Ad privacy settings". Unsuitable ad categories (gambling, alcohol, dating, sexual content, politics, other religions) are blocked. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
+The app shows ads through AdMob by Google Ireland Ltd. Google may process your advertising ID (on iPhone the IDFA, only with your permission; on Android the Google advertising ID), IP address and usage data. In the EEA, UK and Switzerland you are asked for consent first; you can change it in the app under "Ad privacy settings". Unsuitable ad categories (gambling, alcohol, dating, sexual content, politics, other religions) are blocked. Details: [policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 6. Audio and external links
 
