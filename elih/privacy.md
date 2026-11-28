@@ -18,6 +18,8 @@ Elih; dua, ayet, namaz vakitleri ve Kürt dili, tarihi ve kültürü üzerine bi
 
 İzin verirsen uygulama telefonunun yaklaşık konumunu kullanır: Glinde'ye 25 km'den uzaktaysan namaz vakitleri ve kıble bulunduğun şehre göre hesaplanır, aksi halde Glinde camii takvimi geçerlidir. Vakitler cihazında hesaplanır; konumun bize ya da başka bir sunucuya gönderilmez. İzni telefonunun Ayarlar bölümünden istediğin zaman kapatabilirsin.
 
+Ana ekrana başka şehirler de ekleyebilirsin (ör. memleketin). Şehir ararken yazdığın şehir adı, şehrin koordinatlarını bulmak için Open-Meteo'nun (open-meteo.com, İsviçre) arama servisine gönderilir; konumun gönderilmez. Eklediğin şehirler yalnızca telefonunda saklanır.
+
 ### 3. Bildirimler ve ezan
 
 Namaz vakti bildirimleri ve ezan sesi sadece iznin varsa, telefonunun kendisinde planlanır; hiçbir sunucuya gönderilmez.
@@ -62,6 +64,8 @@ Elih ist eine Informations-App mit Gebeten, Koranversen, Gebetszeiten sowie kurd
 
 Mit deiner Erlaubnis nutzt die App den ungefähren Standort deines Telefons: Bist du mehr als 25 km von Glinde entfernt, werden Gebetszeiten und Qibla für deinen Ort berechnet, sonst gilt der Kalender der Glinder Moschee. Die Zeiten werden auf deinem Gerät berechnet; dein Standort wird weder an uns noch an andere Server übertragen. Die Erlaubnis kannst du jederzeit in den Einstellungen deines Telefons widerrufen.
 
+Auf dem Startbildschirm kannst du weitere Städte hinzufügen (z. B. deine Heimatstadt). Bei der Suche wird der eingegebene Stadtname an den Suchdienst von Open-Meteo (open-meteo.com, Schweiz) gesendet, um die Koordinaten zu finden; dein Standort wird nicht übertragen. Hinzugefügte Städte werden nur auf deinem Telefon gespeichert.
+
 ### 3. Mitteilungen und Adhan
 
 Gebetszeit-Mitteilungen und der Adhan werden nur mit deiner Erlaubnis direkt auf deinem Telefon geplant und an keinen Server gesendet.
@@ -101,6 +105,8 @@ Elih is an informational app with prayers, Quran verses, prayer times and Kurdis
 ### 2. Location and prayer times
 
 With your permission the app uses your phone's approximate location: if you are more than 25 km from Glinde, prayer times and qibla are calculated for your location; otherwise the Glinde mosque calendar applies. Times are calculated on your device; your location is never sent to us or any other server. You can revoke permission in your phone's Settings at any time.
+
+You can add more cities to the home screen (e.g. your hometown). When you search, the city name you type is sent to the search service of Open-Meteo (open-meteo.com, Switzerland) to find its coordinates; your location is not sent. Added cities are stored only on your phone.
 
 ### 3. Notifications and adhan
 

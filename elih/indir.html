@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Elih – Uygulamayı indir</title>
+<meta property="og:title" content="Elih – namaz vakitleri, dualar, Kur'an ve Kürt kültürü">
+<meta property="og:description" content="Elih e.V. derneğinin ücretsiz uygulaması · Sepana belaş a komeleya Elih e.V.">
+<style>
+body{margin:0;font:17px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#faf6f1;color:#1c241f;display:grid;place-items:center;min-height:100vh}
+main{max-width:420px;padding:28px 22px;text-align:center}
+h1{font-family:Georgia,serif;color:#167f3a;font-size:40px;margin:0}
+p{margin:8px 0 18px;color:#555}
+a.b{display:block;margin:12px 0;padding:14px 18px;border-radius:14px;background:#167f3a;color:#fff;text-decoration:none;font-weight:600}
+a.b.g{background:#fff;color:#167f3a;border:2px solid #167f3a}
+small{color:#888}
+</style></head><body><main>
+<h1>Elih</h1>
+<p>Namaz vakitleri, dualar, Kur'an ve Kürt kültürü bir arada.<br>Demên nimêjê, dua, Qur'an û çanda Kurdî.<br>Gebetszeiten, Duas, Koran und kurdische Kultur.</p>
+<a class="b" id="ios" href="https://apps.apple.com/app/id6837667327">iPhone · App Store</a>
+<a class="b g" id="and" href="#">Android · <span id="andTxt">yakında / bald</span></a>
+<small>Elih – Verein für Kultur, Bildung und Sport e.V.</small>
+</main>
+<script>
+/* Android sürümü yayınlanınca PLAY=true yapılır */
+var PLAY=false,IOS='https://apps.apple.com/app/id6837667327',GP='https://play.google.com/store/apps/details?id=com.bedrangunden.elih';
+var ua=navigator.userAgent||'',isIOS=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&'ontouchend' in document),isAnd=/Android/.test(ua);
+var a=document.getElementById('and');
+if(PLAY){a.href=GP;document.getElementById('andTxt').textContent='Google Play'}else{a.removeAttribute('href');a.style.opacity=.6}
+if(isIOS)location.replace(IOS);else if(isAnd&&PLAY)location.replace(GP);
+</script></body></html>
