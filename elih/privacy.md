@@ -4,7 +4,7 @@ title: Elih – Gizlilik · Datenschutz · Privacy
 
 # Elih
 
-Gizlilik politikası · Datenschutzerklärung · Privacy policy — 26.11.2026 (iPhone & Android)
+Gizlilik politikası · Datenschutzerklärung · Privacy policy — 28.11.2026 (iPhone & Android)
 
 [Türkçe](#türkçe) · [Deutsch](#deutsch) · [English](#english)
 
@@ -12,11 +12,11 @@ Gizlilik politikası · Datenschutzerklärung · Privacy policy — 26.11.2026 (
 
 ### 1. Kısaca
 
-Elih; dua, ayet, namaz vakitleri ve Kürt dili, tarihi ve kültürü üzerine bilgilendirici bir uygulamadır. Hesap açman gerekmez. Adını, e-postanı, rehberini ya da fotoğraflarını toplamayız. Uygulamada Google AdMob reklamları vardır.
+Elih; dua, ayet, namaz vakitleri ve Kürt dili, tarihi ve kültürü üzerine bilgilendirici bir uygulamadır. Hesap açman gerekmez. Rehberini ya da fotoğraflarını toplamayız; adın ve mesajın sadece sen kendi isteğinle bize yazarsan kaydedilir (bkz. Mesajlar). Uygulamada Google AdMob reklamları vardır.
 
 ### 2. Konum ve namaz vakitleri
 
-Namaz vakitleri için şehrini listeden seçebilir ya da izin verirsen yaklaşık konumunu kullanabilirsin. Vakitler cihazında hesaplanır; konumun bize ya da başka bir sunucuya gönderilmez. İzni telefonunun Ayarlar bölümünden istediğin zaman kapatabilirsin.
+İzin verirsen uygulama telefonunun yaklaşık konumunu kullanır: Glinde'ye 25 km'den uzaktaysan namaz vakitleri ve kıble bulunduğun şehre göre hesaplanır, aksi halde Glinde camii takvimi geçerlidir. Vakitler cihazında hesaplanır; konumun bize ya da başka bir sunucuya gönderilmez. İzni telefonunun Ayarlar bölümünden istediğin zaman kapatabilirsin.
 
 ### 3. Bildirimler ve ezan
 
@@ -38,6 +38,12 @@ Ayet ve dua kayıtları internetten yüklenebilir; bu sırada cihazının IP adr
 
 Derneğin duyuruları bu siteden (bedrangunden.github.io) indirilir. Bu sırada sadece cihazının IP adresi sunucuya ulaşır; kişisel veri gönderilmez.
 
+### Mesajlar (istek, öneri, şikayet, hata bildirimi)
+
+Uygulamadaki iletişim ve "Hata bildir" formlarıyla gönderdiğin mesajlar doğrudan dernek yönetimine ulaşır. Bunun için şunlar kaydedilir: mesajın, mesaj türü, istersen yazdığın ad, ilgili bölüm, uygulama dili, cihaz türü (iPhone/Android) ve kötüye kullanımı (dakikada en fazla 3 mesaj) engellemek için telefonunda rastgele üretilen bir numara. E-posta adresin, konumun ya da reklam kimliğin gönderilmez.
+
+Mesajlar, uygulama sorumlusunun Google hesabındaki korumalı bir Google E-Tablosunda (Google Ireland Ltd.) saklanır ve sadece dernek yönetimi tarafından okunur. Konu çözüldükten sonra, en geç 12 ay içinde silinir. Göndermek tamamen isteğe bağlıdır (DSGVO md. 6/1-a ve b). Mesajının silinmesini istediğinde aşağıdaki adrese yazman yeterlidir.
+
 ### 7. Çocuklar
 
 Uygulama çocuklardan bilerek kişisel veri toplamaz.
@@ -50,11 +56,11 @@ Bedran Günden · bedran34@icloud.com
 
 ### 1. Kurz gesagt
 
-Elih ist eine Informations-App mit Gebeten, Koranversen, Gebetszeiten sowie kurdischer Sprache, Geschichte und Kultur. Ein Konto ist nicht nötig. Wir erheben weder Namen, E-Mail, Kontakte noch Fotos. In der App wird Werbung von Google AdMob angezeigt.
+Elih ist eine Informations-App mit Gebeten, Koranversen, Gebetszeiten sowie kurdischer Sprache, Geschichte und Kultur. Ein Konto ist nicht nötig. Wir erheben weder Kontakte noch Fotos; Name und Nachricht werden nur gespeichert, wenn du uns freiwillig schreibst (siehe Nachrichten). In der App wird Werbung von Google AdMob angezeigt.
 
 ### 2. Standort und Gebetszeiten
 
-Für die Gebetszeiten kannst du deine Stadt aus einer Liste wählen oder mit deiner Erlaubnis deinen ungefähren Standort verwenden. Die Zeiten werden auf deinem Gerät berechnet; dein Standort wird weder an uns noch an andere Server übertragen. Die Erlaubnis kannst du jederzeit in den Einstellungen deines Telefons widerrufen.
+Mit deiner Erlaubnis nutzt die App den ungefähren Standort deines Telefons: Bist du mehr als 25 km von Glinde entfernt, werden Gebetszeiten und Qibla für deinen Ort berechnet, sonst gilt der Kalender der Glinder Moschee. Die Zeiten werden auf deinem Gerät berechnet; dein Standort wird weder an uns noch an andere Server übertragen. Die Erlaubnis kannst du jederzeit in den Einstellungen deines Telefons widerrufen.
 
 ### 3. Mitteilungen und Adhan
 
@@ -72,6 +78,12 @@ In der App wird Werbung über AdMob der Google Ireland Ltd. gezeigt. Google kann
 
 Rezitationen und Gebete können aus dem Internet geladen werden; dabei erhält der Anbieter der Audiodatei die IP-Adresse deines Geräts. Der Link zu elih-verein.de öffnet sich im Browser; dort gelten die Datenschutzregeln dieser Website.
 
+### Nachrichten (Wünsche, Vorschläge, Beschwerden, Fehlermeldungen)
+
+Nachrichten, die du über das Kontaktformular oder „Fehler melden“ in der App sendest, gehen direkt an den Vereinsvorstand. Dabei werden gespeichert: deine Nachricht, die Art der Nachricht, ein freiwillig angegebener Name, der betroffene Bereich, die App-Sprache, der Gerätetyp (iPhone/Android) und eine zufällig auf deinem Telefon erzeugte Nummer zum Schutz vor Missbrauch (höchstens 3 Nachrichten pro Minute). E-Mail-Adresse, Standort und Werbe-ID werden nicht übertragen.
+
+Die Nachrichten werden in einer geschützten Google-Tabelle im Google-Konto des App-Verantwortlichen gespeichert (Google Ireland Ltd.) und nur vom Vorstand gelesen. Sie werden gelöscht, sobald das Anliegen erledigt ist, spätestens nach 12 Monaten. Das Senden ist freiwillig (Art. 6 Abs. 1 lit. a und b DSGVO). Für die Löschung deiner Nachricht genügt eine kurze Mail an die unten genannte Adresse.
+
 ### 7. Kinder
 
 Die App erhebt wissentlich keine personenbezogenen Daten von Kindern.
@@ -84,11 +96,11 @@ Bedran Günden · bedran34@icloud.com – Du hast nach der DSGVO das Recht auf A
 
 ### 1. Summary
 
-Elih is an informational app with prayers, Quran verses, prayer times and Kurdish language, history and culture. No account is needed. We do not collect your name, email, contacts or photos. The app shows Google AdMob ads.
+Elih is an informational app with prayers, Quran verses, prayer times and Kurdish language, history and culture. No account is needed. We do not collect contacts or photos; your name and message are stored only if you choose to write to us (see Messages). The app shows Google AdMob ads.
 
 ### 2. Location and prayer times
 
-For prayer times you can pick your city from a list or, with your permission, use your approximate location. Times are calculated on your device; your location is never sent to us or any other server. You can revoke permission in your phone's Settings at any time.
+With your permission the app uses your phone's approximate location: if you are more than 25 km from Glinde, prayer times and qibla are calculated for your location; otherwise the Glinde mosque calendar applies. Times are calculated on your device; your location is never sent to us or any other server. You can revoke permission in your phone's Settings at any time.
 
 ### 3. Notifications and adhan
 
@@ -105,6 +117,12 @@ The app shows ads through AdMob by Google Ireland Ltd. Google may process your a
 ### 6. Audio and external links
 
 Recitations and prayers may be loaded from the internet; the provider of the audio file receives your device's IP address. The link to elih-verein.de opens in your browser, where that site's privacy rules apply.
+
+### Messages (requests, suggestions, complaints, bug reports)
+
+Messages you send through the contact form or "Report a mistake" in the app go directly to the association's board. We store: your message, the message type, a name if you choose to give one, the related section, the app language, the device type (iPhone/Android) and a random number created on your phone to prevent abuse (at most 3 messages per minute). Your e-mail address, location and advertising ID are not sent.
+
+Messages are kept in a protected Google Sheet in the app owner's Google account (Google Ireland Ltd.) and are read only by the board. They are deleted once the matter is resolved, at the latest after 12 months. Sending is voluntary (Art. 6(1)(a) and (b) GDPR). To have your message deleted, just write to the address below.
 
 ### 7. Children
 
